@@ -532,8 +532,9 @@ a:active {
 }
 
 .container {
-    height: 960px;
-    margin: 0 auto;
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 h1, h2, h3, h4, h5, h6 {
